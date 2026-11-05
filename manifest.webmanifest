@@ -1,6 +1,8 @@
 {
+  "id": "./",
   "name": "CareeFit",
   "short_name": "CareeFit",
+  "description": "취업 준비 일정과 준비도를 관리하는 CareeFit",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
