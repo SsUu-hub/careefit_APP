@@ -1,0 +1,31 @@
+{
+  "name": "CareeFit",
+  "short_name": "CareeFit",
+  "description": "각자의 페이스로, 끝까지. 공고·공모전 일정을 AI 페이스 로드맵으로 관리하는 앱",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ko",
+  "background_color": "#fdfdfd",
+  "theme_color": "#1494fe",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
